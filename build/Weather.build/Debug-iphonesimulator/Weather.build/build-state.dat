@@ -1,0 +1,1172 @@
+TWeather
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o /Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o /Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o /Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o /Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o /Users/eugene/Documents/Portfolio/Weather/Weather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather normal x86_64
+cCopyPlistFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather-Info.plist Weather/Weather-Info.plist
+cCompileStoryboard /Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings Weather/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app /Users/eugene/Documents/Portfolio/Weather/Weather/Images.xcassets
+cProcessInfoPlistFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist /Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist
+cGenerateDSYMFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app.dSYM /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather
+cTouch /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531EDF9D00000000000003B4
+t1394532253
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EDFA9000000000000019E
+t1394532265
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531EDFAC000000000058E0E0
+t1394532268
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531EDFAD00000000005B82F0
+t1394532269
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531EDFAC0000000000446820
+t1394532268
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531EDFAC00000000003599D0
+t1394532268
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531EDFAC00000000000F1A80
+t1394532268
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531EDFAD00000000002FC3B0
+t1394532269
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531EDFAD000000000004B000
+t1394532269
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EDFAF000000000088D8C0
+t1394532271
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531EDFB00000000000037680
+t1394532272
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531EDFB1000000000048F720
+t1394532273
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531EDFB1000000000013FD70
+t1394532273
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531EDFB80000000001F1DE10
+t1394532280
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531EDFC900000000002BC360
+t1394532297
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531EDFD30000000000002338
+t1394532307
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531EDFD4000000000008D370
+t1394532308
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531EDFD40000000000392E20
+t1394532308
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000530FE68E00000000000141F0
+t1393550990
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531EDFD40000000000014A80
+t1394532308
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531EDFD40000000000033BA0
+t1394532308
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531EDFD4000000000001CFB0
+t1394532308
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531EDFD4000000000001B2B0
+t1394532308
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531EDFD400000000000C9570
+t1394532308
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531EDFD40000000000063280
+t1394532308
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531EDFD40000000000008880
+t1394532308
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531EDFD40000000000015080
+t1394532308
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531EDFD400000000000230F0
+t1394532308
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531EDFD4000000000000E380
+t1394532308
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531EDFD50000000000089380
+t1394532309
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531EDFD40000000000017320
+t1394532308
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531EDFD40000000000039CD0
+t1394532308
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531EDFD4000000000000B0B0
+t1394532308
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531EDFD50000000000167E80
+t1394532309
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531EDFD500000000000106A0
+t1394532309
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531EDFD5000000000001CE40
+t1394532309
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531EDFD500000000000740C0
+t1394532309
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531EDFD5000000000006CA60
+t1394532309
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531EDFD5000000000001BAD0
+t1394532309
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531EDFD50000000000084A20
+t1394532309
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EDFDD0000000000000ADC
+t1394532317
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000531EDFDD000000000000514C
+t1394532317
+s20812
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPad.storyboard
+c00000000530FA2420000000000002FFC
+t1393533506
+s12284
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard
+c00000000530FFDFC0000000000008251
+t1393556988
+s33361
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Images.xcassets
+c00000000530F87BC00000000000000CC
+t1393526716
+s204
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Prefix.pch
+c00000000530F87BC0000000000000158
+t1393526716
+s344
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/en.lproj/InfoPlist.strings
+c00000000530F87BC000000000000002D
+t1393526716
+s45
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/genericInfo.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.h
+c00000000533C6F6B0000000000000145
+t1396469611
+s325
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m
+c00000000533C6F74000000000000024E
+t1396469620
+s590
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPad.storyboard
+c00000000530FA2420000000000002FFC
+t1393533506
+s12284
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPhone.storyboard
+c00000000530FFDFC0000000000008251
+t1393556988
+s33361
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.h
+c00000000533C6F4900000000000000FB
+t1396469577
+s251
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m
+c00000000533C7C4800000000000002AC
+t1396472904
+s684
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/Images.xcassets
+c00000000530F87BC00000000000000CC
+t1393526716
+s204
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.h
+c00000000533C6F8F0000000000000138
+t1396469647
+s312
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m
+c00000000533C792F0000000000000796
+t1396472111
+s1942
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist
+c00000000530F87BC00000000000006FC
+t1393526716
+s1788
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch
+c00000000530F87BC0000000000000158
+t1393526716
+s344
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.h
+c00000000533C6F80000000000000039D
+t1396469632
+s925
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m
+c00000000533C6F85000000000000178D
+t1396469637
+s6029
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/en.lproj/InfoPlist.strings
+c00000000530F87BC000000000000002D
+t1393526716
+s45
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/genericInfo.h
+c00000000533C6F4000000000000000CD
+t1396469568
+s205
+
+N/Users/eugene/Documents/Portfolio/Weather/Weather/main.m
+c00000000533C7C5400000000000000DC
+t1396472916
+s220
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app
+t1396473336
+s340
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app.dSYM
+t1396473021
+s102
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Base.lproj/Main_iPad.storyboardc
+t1396473295
+s204
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Base.lproj/Main_iPhone.storyboardc
+t1396473295
+s204
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist
+t1396473336
+s1393
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/PkgInfo
+t1396473336
+s8
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather
+t1396473295
+s59388
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather-Info.plist
+t1396473295
+s965
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings
+t1396473295
+s42
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o
+t1396473295
+s72692
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o
+t1396473295
+s16192
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o
+t1396473295
+s60816
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/Weather.LinkFileList
+c00000000533C7DCF00000000000002AC
+t1396473295
+s684
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o
+t1396473295
+s87964
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o
+t1396473295
+s3812
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_dependencies.txt
+t1396473295
+s351
+
+N/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist
+t1396473295
+s525
+
+N/usr/lib/libSystem.B.dylib
+c0000000052698714000000000000E6D0
+t1382647572
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526987210000000000012A00
+t1382647585
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052698708000000000002E320
+t1382647560
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526987140000000000021860
+t1382647572
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052698720000000000001B620
+t1382647584
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005269872000000000000BD920
+t1382647584
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052698721000000000000A120
+t1382647585
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530FE68E000000000001D550
+t1393550990
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526987200000000000014EE0
+t1382647584
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526987220000000000010380
+t1382647586
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052698722000000000000C4C0
+t1382647586
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005269872100000000000357A0
+t1382647585
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052698721000000000000C070
+t1382647585
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000530FE68E0000000000010630
+t1393550990
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530FE68E000000000001DF10
+t1393550990
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526987140000000000075B00
+t1382647572
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005269871400000000000766C0
+t1382647572
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526987140000000000021FA0
+t1382647572
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530FE68E000000000002D920
+t1393550990
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052698721000000000001E570
+t1382647585
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000530FE68E000000000000CC70
+t1393550990
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c00000000530FE68E0000000000009A80
+t1393550990
+s39552
+
+N/usr/lib/system/libunc.dylib
+c000000005269871C000000000000C3F0
+t1382647580
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005269872100000000000199F0
+t1382647585
+s104944
+
+N/var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.pch
+t2
+s0
+
+N/var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch
+t1396473105
+s122648
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m
+r0
+
+CBuild AST from /Users/eugene/Documents/Portfolio/Weather/Weather/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4e64c278b5ecb841^2c2eca78b5ecb841^-116"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'Weather/Weather-Info.plist'.1(21%IDEActivityLogMessage2@115"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'Weather/Weather-Info.plist'.-418166136#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"ECB7D64E-0495-419F-BEEA-82F434787433-
+
+CCompileAssetCatalog /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Images.xcassets
+s418165677.885401
+e418165678.735004
+r1
+xCompileAssetCatalog
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/LaunchImage-700-568h@2x.png
+o/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Assets.car
+o/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"CompileAssetCatalog build/Debug-iphonesimulator/Weather.app WeWorkWeather/Images.xcassets89"CompileAssetCatalog build/Debug-iphonesimulator/Weather.app WeWorkWeather/Images.xcassets6bb6e2adb3ecb841^ae29bcaeb3ecb841^-379"/* com.apple.actool.compilation-results *//Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/LaunchImage-700-568h@2x.png/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Assets.car/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@79"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Images.xcassets/0000000000000000^1140"CompileAssetCatalog build/Debug-iphonesimulator/Weather.app WeWorkWeather/Images.xcassets    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Images.xcassets36"89768E88-E24D-43B0-A8F2-D411886B5CA9-
+b7DF60C84-E08E-4B06-BDE0-5C599E533BB0
+
+CCompileAssetCatalog /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app /Users/eugene/Documents/Portfolio/Weather/Weather/Images.xcassets
+s418166095.231719
+e418166095.980180
+r1
+xCompileAssetCatalog
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app
+x/Users/eugene/Documents/Portfolio/Weather/Weather/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/LaunchImage-700-568h@2x.png
+o/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Assets.car
+o/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"CompileAssetCatalog build/Debug-iphonesimulator/Weather.app Weather/Images.xcassets83"CompileAssetCatalog build/Debug-iphonesimulator/Weather.app Weather/Images.xcassets0b633b4fb5ecb841^20eefa4fb5ecb841^-379"/* com.apple.actool.compilation-results *//Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/LaunchImage-700-568h@2x.png/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Assets.car/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/eugene/Documents/Portfolio/Weather/Weather/Images.xcassets/0000000000000000^1128"CompileAssetCatalog build/Debug-iphonesimulator/Weather.app Weather/Images.xcassets    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app /Users/eugene/Documents/Portfolio/Weather/Weather/Images.xcassets36"36196C6C-6AF0-4FB7-A693-B3354906BC00-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate-4AB7638A5D73B54.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate-526F7FB6779DD95A.o /Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165905.207334
+e418165905.215479
+r0
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/genericInfo.h
+oclang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m198"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o WeWorkWeather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler54353591b4ecb841^c4213791b4ecb841^-267"clang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-418165905#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@76"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m0034b89ddeffdf42^3585"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o WeWorkWeather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o36"D0B81C71-46A7-4E96-8F7A-1E76C8EE3567-
+bDC13A2B9-4245-4B16-8CA4-D700A88189DB
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o /Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418166095.121864
+e418166095.193096
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m
+d/Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/genericInfo.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m192"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o Weather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler915f1f4fb5ecb841^226f314fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m0000000000000000^3573"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o Weather/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o36"1D04E7A3-48F1-4EA0-BC5E-F708B77E2911-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165905.207615
+e418165905.215083
+r0
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.o
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/genericInfo.h
+oclang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m202"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.o WeWorkWeather/DataContainer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4d4a3591b4ecb841^0d1d3791b4ecb841^-269"clang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-418165905#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@78"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m0034b89ddeffdf42^3597"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.o WeWorkWeather/DataContainer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.dia -c /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataContainer.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataContainer.o36"E980B4F9-205F-4D5A-BE68-A0495F7F81F7-
+bDC13A2B9-4245-4B16-8CA4-D700A88189DB
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager-43723E0ADA8DF95C.o /Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager-C3683C1C1BE4B25C.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165905.207116
+e418165905.215477
+r0
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/genericInfo.h
+oclang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m198"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o WeWorkWeather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerac1d3591b4ecb841^033e3791b4ecb841^-267"clang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-418165905#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@76"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m0034b89ddeffdf42^3585"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o WeWorkWeather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.dia -c /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o36"7635B585-40DF-470D-9774-65EEF7D840AB-
+bDC13A2B9-4245-4B16-8CA4-D700A88189DB
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o /Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418166095.121498
+e418166095.171479
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o
+x/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m
+d/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/genericInfo.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m192"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o Weather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerda371f4fb5ecb841^71e62b4fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m0000000000000000^3573"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o Weather/DataManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.dia -c /Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o36"87886B38-0AD4-49BD-A50C-6B2A99CFC338-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController-ACF65B896EF6295F.o /Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController-F645865A51C06B67.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165905.206917
+e418165905.215444
+r0
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/genericInfo.h
+oclang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m220"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o WeWorkWeather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc30c3591b4ecb841^70253791b4ecb841^-278"clang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-418165905#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@87"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m0034b89ddeffdf42^3651"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o WeWorkWeather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.dia -c /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o36"8AD1D1F5-D6C3-4F89-84AC-5AB2D4E80D11-
+bDC13A2B9-4245-4B16-8CA4-D700A88189DB
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o /Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418166095.121255
+e418166095.186503
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o
+x/Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m
+d/Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/genericInfo.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m214"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o Weather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0e2c1f4fb5ecb841^b6bf2f4fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m0000000000000000^3639"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o Weather/SettingsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.dia -c /Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o36"31FB6918-D8E2-4FE0-A31C-A192E079CFB8-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController-4137CEB4630FCB5D.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController-C43A166F09A4EA4B.o /Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165905.208275
+e418165905.215557
+r0
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/genericInfo.h
+oclang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m218"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o WeWorkWeather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere2753591b4ecb841^68423791b4ecb841^-277"clang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-418165905#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@86"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m0034b89ddeffdf42^3645"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o WeWorkWeather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.dia -c /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o36"3A731B28-80DC-4769-A4E1-3E40C7AA5469-
+bDC13A2B9-4245-4B16-8CA4-D700A88189DB
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o /Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418166095.122272
+e418166095.200653
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o
+x/Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m
+d/Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/genericInfo.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m212"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o Weather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler857d1f4fb5ecb841^855e334fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m0000000000000000^3633"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o Weather/WeatherViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.dia -c /Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o36"18560DF2-3C25-44D4-B1D7-27C02568ACE5-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main-7CF7492ABD78BF48.o /Users/eugene/Documents/Portfolio/Weather/Weather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main-95276F35B1D8CF7C.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165905.208694
+e418165905.215633
+r0
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/AppDelegate.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/WeatherViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/SettingsViewController.h
+oclang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m184"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o WeWorkWeather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d883591b4ecb841^45463791b4ecb841^-260"clang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-418165905#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@69"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m0034b89ddeffdf42^3543"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o WeWorkWeather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.dia -c /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/main.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o36"AA9E493F-57FA-47E6-B6CD-95DCA5673223-
+bDC13A2B9-4245-4B16-8CA4-D700A88189DB
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o /Users/eugene/Documents/Portfolio/Weather/Weather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418166095.122871
+e418166095.158753
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o
+x/Users/eugene/Documents/Portfolio/Weather/Weather/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/Weather/main.m
+d/Users/eugene/Documents/Portfolio/Weather/Weather/AppDelegate.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/WeatherViewController.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/DataManager.h
+d/Users/eugene/Documents/Portfolio/Weather/Weather/SettingsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/eugene/Documents/Portfolio/Weather/Weather/main.m178"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o Weather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler24d11f4fb5ecb841^5da4284fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/eugene/Documents/Portfolio/Weather/Weather/main.m0000000000000000^3531"CompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o Weather/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.dia -c /Users/eugene/Documents/Portfolio/Weather/Weather/main.m -o /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o36"F47B8ECF-5383-44A8-A172-162B126A79FC-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCompileStoryboard /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPad.storyboard
+s418165677.884537
+e418165678.663456
+r1
+xCompileStoryboard
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPad.storyboard63"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPad.storyboard3d7fe2adb3ecb841^a5d8a9aeb3ecb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPad.storyboard0000000000000000^866"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPad.storyboard    cd /Users/eugene/Documents/Portfolio/Weather    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Base.lproj/Main_iPad.storyboardc /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPad.storyboard36"442283AD-485C-4976-93BE-DDBD6065617B-
+b7DF60C84-E08E-4B06-BDE0-5C599E533BB0
+
+CCompileStoryboard /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard
+s418165677.884652
+e418165678.516269
+r1
+xCompileStoryboard
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPhone.storyboard65"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPhone.storyboarddf88e2adb3ecb841^412b84aeb3ecb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard0000000000000000^872"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPhone.storyboard    cd /Users/eugene/Documents/Portfolio/Weather    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Base.lproj/Main_iPhone.storyboardc /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard36"672FC189-D57D-4627-BCE4-5417E245ABF7-
+b7DF60C84-E08E-4B06-BDE0-5C599E533BB0
+
+CCompileStoryboard /Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPad.storyboard
+s418166095.230749
+e418166095.748728
+r1
+xCompileStoryboard
+x/Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Weather/Base.lproj/Main_iPad.storyboard57"CompileStoryboard Weather/Base.lproj/Main_iPad.storyboard251f3b4fb5ecb841^79aebf4fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPad.storyboard0000000000000000^854"CompileStoryboard Weather/Base.lproj/Main_iPad.storyboard    cd /Users/eugene/Documents/Portfolio/Weather    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Base.lproj/Main_iPad.storyboardc /Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPad.storyboard36"6125E494-82D9-40A2-BF36-34FAE163A3B7-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCompileStoryboard /Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPhone.storyboard
+s418166095.230920
+e418166095.842262
+r1
+xCompileStoryboard
+x/Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard Weather/Base.lproj/Main_iPhone.storyboard59"CompileStoryboard Weather/Base.lproj/Main_iPhone.storyboarde5293b4fb5ecb841^f19ed74fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPhone.storyboard0000000000000000^860"CompileStoryboard Weather/Base.lproj/Main_iPhone.storyboard    cd /Users/eugene/Documents/Portfolio/Weather    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Base.lproj/Main_iPhone.storyboardc /Users/eugene/Documents/Portfolio/Weather/Weather/Base.lproj/Main_iPhone.storyboard36"0460903A-CCC0-4AA9-9EE2-BF91D3311974-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCopyPlistFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather-Info.plist WeWorkWeather/Weather-Info.plist
+r0
+
+CCopyPlistFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather-Info.plist Weather/Weather-Info.plist
+s418166095.230630
+e418166095.231649
+r1
+xCopyPlistFile
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather-Info.plist
+xWeather/Weather-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Copy Weather/Weather-Info.plist99"CopyPlistFile build/Debug-iphonesimulator/Weather.app/Weather-Info.plist Weather/Weather-Info.plist5d1a3b4fb5ecb841^6a4d3b4fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist0000000000000000^505"CopyPlistFile build/Debug-iphonesimulator/Weather.app/Weather-Info.plist Weather/Weather-Info.plist    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app -- Weather/Weather-Info.plist36"4964AA6F-83A1-4FE1-A160-9D2AB7A8453A-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CCopyStringsFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings WeWorkWeather/en.lproj/InfoPlist.strings
+s418165677.884785
+e418165677.885874
+r1
+xCopyStringsFile
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings
+xWeWorkWeather/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy WeWorkWeather/en.lproj/InfoPlist.strings123"CopyStringsFile build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings WeWorkWeather/en.lproj/InfoPlist.stringsfb91e2adb3ecb841^7ec9e2adb3ecb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/en.lproj/InfoPlist.strings0000000000000000^593"CopyStringsFile build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings WeWorkWeather/en.lproj/InfoPlist.strings    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj -- WeWorkWeather/en.lproj/InfoPlist.strings36"3DDAAB2C-040B-4201-8462-6C62A1462ACC-
+b7DF60C84-E08E-4B06-BDE0-5C599E533BB0
+
+CCopyStringsFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings Weather/en.lproj/InfoPlist.strings
+s418166095.231041
+e418166095.232088
+r1
+xCopyStringsFile
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings
+xWeather/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Weather/en.lproj/InfoPlist.strings117"CopyStringsFile build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings Weather/en.lproj/InfoPlist.strings59363b4fb5ecb841^b66a3b4fb5ecb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/eugene/Documents/Portfolio/Weather/Weather/en.lproj/InfoPlist.strings0000000000000000^581"CopyStringsFile build/Debug-iphonesimulator/Weather.app/en.lproj/InfoPlist.strings Weather/en.lproj/InfoPlist.strings    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/en.lproj -- Weather/en.lproj/InfoPlist.strings36"D6CA7A24-57A2-4676-800F-45600E40E320-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CGenerateDSYMFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app.dSYM /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather
+s418166136.801776
+e418166136.820709
+r1
+xGenerateDSYMFile
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app.dSYM
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app.dSYM109"GenerateDSYMFile build/Debug-iphonesimulator/Weather.app.dSYM build/Debug-iphonesimulator/Weather.app/Weather2a52cd78b5ecb841^3b1bd278b5ecb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app.dSYM/0000000000000000^634"GenerateDSYMFile build/Debug-iphonesimulator/Weather.app.dSYM build/Debug-iphonesimulator/Weather.app/Weather    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather -o /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app.dSYM36"A7D11CDA-23A5-45F4-832A-A7F560454876-
+bA7510608-EECF-46ED-8080-BB78CEF1545C
+
+CLd /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather normal x86_64
+s418166095.202281
+e418166095.229779
+r1
+xLd
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather
+xnormal
+xx86_64
+d/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/Weather.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/DataManager.o
+d/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/SettingsViewController.o
+d/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/WeatherViewController.o
+d/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather64"Ld build/Debug-iphonesimulator/Weather.app/Weather normal x86_64d4d7334fb5ecb841^74d33a4fb5ecb841^---0#0#1#--1351"Ld build/Debug-iphonesimulator/Weather.app/Weather normal x86_64    cd /Users/eugene/Documents/Portfolio/Weather    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator -filelist /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/Weather.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/x86_64/Weather_dependency_info.dat -o /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Weather36"2BE67484-F645-4BF7-80B3-8506B0C93960-
+b6CC79D2B-C592-4688-BBE0-7F77359498E2
+
+CProcessInfoPlistFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist
+s418166127.326994
+e418166127.327635
+r0
+xProcessInfoPlistFile
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist
+x/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist104"ProcessInfoPlistFile build/Debug-iphonesimulator/Weather.app/Info.plist WeWorkWeather/Weather-Info.plist33c2536fb5ecb841^4628566fb5ecb841^-196"error: could not read data from '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist': The file “Weather-Info.plist” couldn’t be opened because there is no such file.1(21%IDEActivityLogMessage2@188"could not read data from '/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist': The file “Weather-Info.plist” couldn’t be opened because there is no such file.-418166127#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#24"Info.plist Utility Error--0#0#1#-19%DVTDocumentLocation4@81"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist0034b89ddeffdf42^868"ProcessInfoPlistFile build/Debug-iphonesimulator/Weather.app/Info.plist WeWorkWeather/Weather-Info.plist    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Info.plist -genpkginfo /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist -o /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist36"5B10ABB3-D223-4343-9799-098D4863B49C-
+bF06D39FE-556E-48DD-AF79-44A20CBF3059
+
+CProcessInfoPlistFile /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist /Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist
+s418166136.793401
+e418166136.801202
+r1
+xProcessInfoPlistFile
+x/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist
+x/Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Process /Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist98"ProcessInfoPlistFile build/Debug-iphonesimulator/Weather.app/Info.plist Weather/Weather-Info.plist4627cb78b5ecb841^211ecd78b5ecb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist0000000000000000^856"ProcessInfoPlistFile build/Debug-iphonesimulator/Weather.app/Info.plist Weather/Weather-Info.plist    cd /Users/eugene/Documents/Portfolio/Weather    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Info.plist -genpkginfo /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/assetcatalog_generated_info.plist -o /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app/Info.plist36"E1AC6745-C297-4C82-8A6B-42586A8DDCD9-
+bA7510608-EECF-46ED-8080-BB78CEF1545C
+
+CProcessPCH /Users/eugene/Library/Developer/Xcode/DerivedData/Weather-gudjejwntbsgbjgoolokgedmmjea/Index/PrecompiledHeaders/Weather-Prefix-elfdtmwsejbjllgwhmwnuydyconb_ast/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/eugene/Library/Developer/Xcode/DerivedData/Weather-gudjejwntbsgbjgoolokgedmmjea/Index/PrecompiledHeaders/Weather-Prefix-ewpaiuiijxubkjhbhlfgpbdlkqnx_ast/Weather-Prefix.pch.pch WeWorkWeather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/eugene/Library/Developer/Xcode/DerivedData/Weather-gudjejwntbsgbjgoolokgedmmjea/Index/PrecompiledHeaders/Weather-Prefix-ewpaiuiijxubkjhbhlfgpbdlkqnx_ast/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165856.816106
+e418165856.822541
+r0
+xProcessPCH
+x/var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.pch
+xWeather/Weather-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Weather/Weather-Prefix.pch290"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler54ffd060b4ecb841^4a44d460b4ecb841^-266"clang: error: no such file or directory: '/Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-418165856#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@75"file:///Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch0034b89ddeffdf42^3638"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.d -c /Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch -o /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bmsvwfbfvgnafpehcpinyemqzwyq/Weather-Prefix.pch.pch36"862AEBEE-99D5-42B3-A6E0-DC823F1B21D3-
+bDFE7AA41-F4DB-4515-B7E1-8D614E4FBA07
+
+CProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch WeWorkWeather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165677.724232
+e418165677.771304
+r1
+xProcessPCH
+x/var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch
+xWeWorkWeather/Weather-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile WeWorkWeather/Weather-Prefix.pch296"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch WeWorkWeather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbc7ab9adb3ecb841^4776c5adb3ecb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Prefix.pch0000000000000000^3650"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch WeWorkWeather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.d -c /Users/eugene/Documents/Portfolio/Weather/WeWorkWeather/Weather-Prefix.pch -o /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch36"9FB45C54-6600-4A2C-A4F8-EDF02592718F-
+b7DF60C84-E08E-4B06-BDE0-5C599E533BB0
+
+CProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418165905.171696
+e418165905.206262
+r1
+xProcessPCH
+x/var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch
+xWeather/Weather-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Weather/Weather-Prefix.pch290"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb8042c91b4ecb841^70ce3491b4ecb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch0000000000000000^3638"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Documents/Portfolio/Weather    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/x86_64 -I/Users/eugene/Documents/Portfolio/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.d -c /Users/eugene/Documents/Portfolio/Weather/Weather/Weather-Prefix.pch -o /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Weather-Prefix-etzhcvzzpieclxazccdgklkfpxsg/Weather-Prefix.pch.pch36"FB1173E8-A423-4CD5-A24B-D10748259695-
+bDC13A2B9-4245-4B16-8CA4-D700A88189DB
+
+CTouch /Users/eugene/Documents/Portfolio/Weather/build/Debug-iphonesimulator/Weather.app
+r0
+

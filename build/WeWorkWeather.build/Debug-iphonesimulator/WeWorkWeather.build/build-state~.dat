@@ -1,0 +1,417 @@
+TWeWorkWeather
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.pch WeWorkWeather/WeWorkWeather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather normal i386
+cCompileStoryboard /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/en.lproj/InfoPlist.strings WeWorkWeather/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Images.xcassets
+cProcessInfoPlistFile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Info.plist /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Info.plist
+cGenerateDSYMFile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app.dSYM /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather
+cTouch /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005282A1920000000000000176
+t1384292754
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005268699B00000000000003B5
+t1382574491
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268699F00000000000001A0
+t1382574495
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526869A00000000000445870
+t1382574496
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526869A1000000000088C680
+t1382574497
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526869A40000000001DB9910
+t1382574500
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000526869BD0000000000000AC9
+t1382574525
+s2761
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m
+c00000000530FA29200000000000007C7
+t1393533586
+s1991
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPad.storyboard
+c00000000530FA2420000000000002FFC
+t1393533506
+s12284
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard
+c00000000530FA24200000000000023DC
+t1393533506
+s9180
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Images.xcassets
+c00000000530F87BC00000000000000CC
+t1393526716
+s204
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m
+c00000000530FA241000000000000077F
+t1393533505
+s1919
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Info.plist
+c00000000530F87BC00000000000006FC
+t1393526716
+s1788
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Prefix.pch
+c00000000530F87BC0000000000000158
+t1393526716
+s344
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m
+c00000000530FA07E00000000000001C5
+t1393533054
+s453
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/en.lproj/InfoPlist.strings
+c00000000530F87BC000000000000002D
+t1393526716
+s45
+
+N/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m
+c00000000530F87BC0000000000000155
+t1393526716
+s341
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app
+t1393533628
+s306
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app.dSYM
+t2
+s0
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Base.lproj/Main_iPad.storyboardc
+t1393533628
+s204
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Base.lproj/Main_iPhone.storyboardc
+t1393533628
+s204
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Info.plist
+t1393533628
+s1411
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/PkgInfo
+t1393533628
+s8
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather
+t1393533627
+s24988
+
+N/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/en.lproj/InfoPlist.strings
+t1393533627
+s42
+
+N/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o
+t1393533627
+s68308
+
+N/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o
+t1393533627
+s58040
+
+N/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeWorkWeather.LinkFileList
+c00000000530FA2BB0000000000000236
+t1393533627
+s566
+
+N/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o
+t1393533627
+s50512
+
+N/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o
+t1393533627
+s3688
+
+N/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/assetcatalog_dependencies.txt
+t1393533628
+s357
+
+N/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/assetcatalog_generated_info.plist
+t1393533628
+s525
+
+N/var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.pch
+t1393533627
+s113956
+
+CBuild AST from /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m
+r0
+
+CBuild AST from /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m
+r0
+
+CBuild AST from /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m
+r0
+
+CBuild AST from /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8256883bdabfb841^8179903bdabfb841^---0#1#1#--18"Check dependencies36"E8C82847-E706-4722-BE87-AC30092E70AF-
+
+CCompileAssetCatalog /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Images.xcassets
+s415226427.705434
+e415226428.078863
+r1
+xCompileAssetCatalog
+x/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/LaunchImage-700-568h@2x.png
+o/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Assets.car
+o/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"CompileAssetCatalog build/Debug-iphonesimulator/WeWorkWeather.app WeWorkWeather/Images.xcassets95"CompileAssetCatalog build/Debug-iphonesimulator/WeWorkWeather.app WeWorkWeather/Images.xcassets05a5b43bdabfb841^e430143cdabfb841^-385"/* com.apple.actool.compilation-results *//Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/LaunchImage-700-568h@2x.png/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Assets.car/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Images.xcassets/0000000000000000^1146"CompileAssetCatalog build/Debug-iphonesimulator/WeWorkWeather.app WeWorkWeather/Images.xcassets    cd /Users/eugene/Desktop/WeWorkWeather    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Images.xcassets36"DC292052-2C93-4C03-BD09-9BA3DA358BD8-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415226427.605238
+e415226427.674377
+r1
+xCompileC
+xbuild/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m206"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o WeWorkWeather/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36049b3bdabfb841^90a4ac3bdabfb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m0000000000000000^3651"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o WeWorkWeather/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Desktop/WeWorkWeather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-generated-files.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-own-target-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-all-target-headers.hmap -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-project-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources/i386 -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources -F/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.dia -c /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.m -o /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o36"D67210E5-D3FF-4C3D-A291-EB97A35CAE73-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415226427.605000
+e415226427.673335
+r1
+xCompileC
+xbuild/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.h
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/genericInfo.h
+o/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m:40:15: warning: unused variable 'tempF' [-Wunused-variable]
+o    NSNumber *tempF = [currObs objectForKey:@"temp_f"];
+o              ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m228"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o WeWorkWeather/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0af79a3bdabfb841^5b5fac3bdabfb841^-228"/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m:40:15: warning: unused variable 'tempF' [-Wunused-variable]    NSNumber *tempF = [currObs objectForKey:@"temp_f"];              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'tempF'-415226427#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@81"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m0000000000000000^39#14#39#14#1055#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@81"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m0000000000000000^3717"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o WeWorkWeather/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Desktop/WeWorkWeather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-generated-files.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-own-target-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-all-target-headers.hmap -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-project-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources/i386 -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources -F/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.d --serialize-diagnostics /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.dia -c /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/SettingsViewController.m -o /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o36"09C8B75E-7B3C-4748-9891-85AB98098C50-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415226427.605444
+e415226427.667980
+r1
+xCompileC
+xbuild/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m226"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o WeWorkWeather/WeatherViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler83199b3bdabfb841^8202ab3bdabfb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m0000000000000000^3711"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o WeWorkWeather/WeatherViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Desktop/WeWorkWeather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-generated-files.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-own-target-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-all-target-headers.hmap -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-project-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources/i386 -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources -F/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.d --serialize-diagnostics /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.dia -c /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeatherViewController.m -o /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o36"D35B3888-0618-4DA1-9693-89B55CA1FDD9-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CCompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415226427.605783
+e415226427.637305
+r1
+xCompileC
+xbuild/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m192"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o WeWorkWeather/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerba2f9b3bdabfb841^2427a33bdabfb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m0000000000000000^3609"CompileC build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o WeWorkWeather/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Desktop/WeWorkWeather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-generated-files.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-own-target-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-all-target-headers.hmap -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-project-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources/i386 -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources -F/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator -include /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch -MMD -MT dependencies -MF /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.dia -c /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/main.m -o /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o36"08B719D6-7E94-42C2-AB2C-770888B395BF-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CCompileStoryboard /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPad.storyboard
+s415226427.704520
+e415226428.591467
+r1
+xCompileStoryboard
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPad.storyboard63"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPad.storyboardf969b43bdabfb841^946a973cdabfb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPad.storyboard0000000000000000^854"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPad.storyboard    cd /Users/eugene/Desktop/WeWorkWeather    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Base.lproj/Main_iPad.storyboardc /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPad.storyboard36"225C9DF5-82DA-40F4-A10C-1F6ADF6BBBD5-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CCompileStoryboard /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard
+s415226427.704670
+e415226428.076288
+r1
+xCompileStoryboard
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPhone.storyboard65"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPhone.storyboard7574b43bdabfb841^698b133cdabfb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard0000000000000000^860"CompileStoryboard WeWorkWeather/Base.lproj/Main_iPhone.storyboard    cd /Users/eugene/Desktop/WeWorkWeather    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Base.lproj/Main_iPhone.storyboardc /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/Base.lproj/Main_iPhone.storyboard36"9003619E-821F-458E-A495-86822A1B6F73-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CCopyStringsFile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/en.lproj/InfoPlist.strings WeWorkWeather/en.lproj/InfoPlist.strings
+s415226427.704771
+e415226427.706126
+r1
+xCopyStringsFile
+x/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/en.lproj/InfoPlist.strings
+xWeWorkWeather/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy WeWorkWeather/en.lproj/InfoPlist.strings129"CopyStringsFile build/Debug-iphonesimulator/WeWorkWeather.app/en.lproj/InfoPlist.strings WeWorkWeather/en.lproj/InfoPlist.stringsc87cb43bdabfb841^76c5b43bdabfb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/en.lproj/InfoPlist.strings0000000000000000^593"CopyStringsFile build/Debug-iphonesimulator/WeWorkWeather.app/en.lproj/InfoPlist.strings WeWorkWeather/en.lproj/InfoPlist.strings    cd /Users/eugene/Desktop/WeWorkWeather    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/en.lproj -- WeWorkWeather/en.lproj/InfoPlist.strings36"989A0ADB-C160-4FD1-9DC7-F034B310D945-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CGenerateDSYMFile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app.dSYM /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather
+s415226428.593722
+e415226428.609414
+r1
+xGenerateDSYMFile
+x/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app.dSYM
+x/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app.dSYM127"GenerateDSYMFile build/Debug-iphonesimulator/WeWorkWeather.app.dSYM build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather8508983cdabfb841^79039c3cdabfb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app.dSYM003424deddffdf42^652"GenerateDSYMFile build/Debug-iphonesimulator/WeWorkWeather.app.dSYM build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather    cd /Users/eugene/Desktop/WeWorkWeather    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather -o /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app.dSYM36"61828627-E131-44EC-83F0-D206A2238EDE-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CLd /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather normal i386
+s415226427.675020
+e415226427.703831
+r1
+xLd
+x/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather
+xnormal
+xi386
+d/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeWorkWeather.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/SettingsViewController.o
+d/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/AppDelegate.o
+d/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeatherViewController.o
+d/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather74"Ld build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather normal i386dbe0ac3bdabfb841^622fb43bdabfb841^---0#0#1#--1367"Ld build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather normal i386    cd /Users/eugene/Desktop/WeWorkWeather    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator -F/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator -filelist /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeWorkWeather.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/Objects-normal/i386/WeWorkWeather_dependency_info.dat -o /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/WeWorkWeather36"1D06E2B9-1E0A-4024-BCA7-953CF0B1A9C9-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CProcessInfoPlistFile /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Info.plist /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Info.plist
+s415226428.591952
+e415226428.593371
+r1
+xProcessInfoPlistFile
+x/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Info.plist
+x/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Info.plist116"ProcessInfoPlistFile build/Debug-iphonesimulator/WeWorkWeather.app/Info.plist WeWorkWeather/WeWorkWeather-Info.plist9e96973cdabfb841^c0e7973cdabfb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Info.plist0000000000000000^880"ProcessInfoPlistFile build/Debug-iphonesimulator/WeWorkWeather.app/Info.plist WeWorkWeather/WeWorkWeather-Info.plist    cd /Users/eugene/Desktop/WeWorkWeather    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Info.plist -genpkginfo /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/assetcatalog_generated_info.plist -o /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app/Info.plist36"4AA82D02-02DD-4A54-9BDF-A94BCA8BF0FB-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CProcessPCH /Users/eugene/Library/Developer/Xcode/DerivedData/WeWorkWeather-djmmewlbrotidscvvqahdxmzxyop/Index/PrecompiledHeaders/WeWorkWeather-Prefix-dclponptbbxbuqhetbcfiagjonka_ast/WeWorkWeather-Prefix.pch.pch WeWorkWeather/WeWorkWeather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.pch WeWorkWeather/WeWorkWeather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415226427.565117
+e415226427.604448
+r1
+xProcessPCH
+x/var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.pch
+xWeWorkWeather/WeWorkWeather-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile WeWorkWeather/WeWorkWeather-Prefix.pch314"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.pch WeWorkWeather/WeWorkWeather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler88bd903bdabfb841^3cbd9a3bdabfb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Prefix.pch0000000000000000^3748"ProcessPCH /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.pch WeWorkWeather/WeWorkWeather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eugene/Desktop/WeWorkWeather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eugene/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-generated-files.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-own-target-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-all-target-headers.hmap -iquote /Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/WeWorkWeather-project-headers.hmap -I/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources/i386 -I/Users/eugene/Desktop/WeWorkWeather/build/WeWorkWeather.build/Debug-iphonesimulator/WeWorkWeather.build/DerivedSources -F/Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.d -c /Users/eugene/Desktop/WeWorkWeather/WeWorkWeather/WeWorkWeather-Prefix.pch -o /var/folders/78/cxbb9rjj5cg54945qt3hx5yh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WeWorkWeather-Prefix-dtkuupckgsrdmdeipzzdcknokwke/WeWorkWeather-Prefix.pch.pch36"1F0BEA46-1F70-45C3-B2C6-C08688E2D432-
+b1B0B6E42-1869-4171-B297-E4D137698547
+
+CTouch /Users/eugene/Desktop/WeWorkWeather/build/Debug-iphonesimulator/WeWorkWeather.app
+r0
+
