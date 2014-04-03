@@ -4,6 +4,8 @@
 #import "DataManager.h"
 #import "genericInfo.h"
 
+static DataManager *sharedManager = nil;
+
 @implementation DataManager
 
 @synthesize zipCode = _zipCode;
@@ -24,8 +26,6 @@
 
 + (id)sharedManager
 {
-    static DataManager *sharedManager = nil;
-    
     static dispatch_once_t oncePredicate;
     
     dispatch_once(&oncePredicate, ^{

@@ -13,8 +13,6 @@
 		4460A91618BFBF3C00516B61 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4460A91518BFBF3C00516B61 /* XCTest.framework */; };
 		4460A91718BFBF3C00516B61 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4460A8F018BFBF3C00516B61 /* Foundation.framework */; };
 		4460A91818BFBF3C00516B61 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4460A8F418BFBF3C00516B61 /* UIKit.framework */; };
-		4460A92018BFBF3C00516B61 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4460A91E18BFBF3C00516B61 /* InfoPlist.strings */; };
-		4460A92218BFBF3C00516B61 /* WeatherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4460A92118BFBF3C00516B61 /* WeatherTests.m */; };
 		44CA300318ECB50400612BB8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 44CA300018ECB50400612BB8 /* main.m */; };
 		44CA300418ECB50400612BB8 /* Weather-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 44CA300118ECB50400612BB8 /* Weather-Info.plist */; };
 		44CA300818ECB51000612BB8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 44CA300618ECB51000612BB8 /* InfoPlist.strings */; };
@@ -44,9 +42,6 @@
 		4460A8F418BFBF3C00516B61 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4460A91418BFBF3C00516B61 /* WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4460A91518BFBF3C00516B61 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		4460A91D18BFBF3C00516B61 /* WeatherTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WeatherTests-Info.plist"; sourceTree = "<group>"; };
-		4460A91F18BFBF3C00516B61 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4460A92118BFBF3C00516B61 /* WeatherTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeatherTests.m; sourceTree = "<group>"; };
 		44CA300018ECB50400612BB8 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Weather/main.m; sourceTree = SOURCE_ROOT; };
 		44CA300118ECB50400612BB8 /* Weather-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Weather-Info.plist"; path = "Weather/Weather-Info.plist"; sourceTree = SOURCE_ROOT; };
 		44CA300218ECB50400612BB8 /* Weather-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Weather-Prefix.pch"; path = "Weather/Weather-Prefix.pch"; sourceTree = SOURCE_ROOT; };
@@ -93,7 +88,6 @@
 			isa = PBXGroup;
 			children = (
 				4460A8F618BFBF3C00516B61 /* Weather */,
-				4460A91B18BFBF3C00516B61 /* WeatherTests */,
 				4460A8EF18BFBF3C00516B61 /* Frameworks */,
 				4460A8EE18BFBF3C00516B61 /* Products */,
 			);
@@ -147,25 +141,6 @@
 				44CA300018ECB50400612BB8 /* main.m */,
 				44CA300118ECB50400612BB8 /* Weather-Info.plist */,
 				44CA300218ECB50400612BB8 /* Weather-Prefix.pch */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		4460A91B18BFBF3C00516B61 /* WeatherTests */ = {
-			isa = PBXGroup;
-			children = (
-				4460A92118BFBF3C00516B61 /* WeatherTests.m */,
-				4460A91C18BFBF3C00516B61 /* Supporting Files */,
-			);
-			name = WeatherTests;
-			path = WeWorkWeatherTests;
-			sourceTree = "<group>";
-		};
-		4460A91C18BFBF3C00516B61 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				4460A91D18BFBF3C00516B61 /* WeatherTests-Info.plist */,
-				4460A91E18BFBF3C00516B61 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -258,7 +233,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4460A92018BFBF3C00516B61 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,7 +255,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4460A92218BFBF3C00516B61 /* WeatherTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,14 +269,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		4460A91E18BFBF3C00516B61 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				4460A91F18BFBF3C00516B61 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
 		44CA300618ECB51000612BB8 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (

@@ -7,9 +7,9 @@
     
 }
 
-@property(weak, nonatomic) NSString *zipCode;
+@property(retain, nonatomic) NSString *zipCode;
 @property(nonatomic) BOOL isCelsius;
-@property(weak, nonatomic) id weatherData;
+@property(retain, nonatomic) id weatherData;
 
 + (id)sharedManager;
 @end
